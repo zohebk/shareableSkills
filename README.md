@@ -31,4 +31,3 @@ Generate a preliminary CMA-style PDF for 45 Oak Avenue, Austin, TX 78701. Find r
 ## Sharing and privacy
 
 Keep API keys, private property research, and personal reports out of this public repository. Use current direct sources, cite evidence, and label uncertainty clearly. Additional skills can be added in their own folders and listed here as the collection grows.
-
